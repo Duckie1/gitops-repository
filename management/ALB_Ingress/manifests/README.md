@@ -1,1 +1,0 @@
-ALB_Ingress manifests
